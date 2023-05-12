@@ -36,6 +36,10 @@ MySQL Connector -> Utilizado para se connectar ao Banco de Dados MySQL
 
 H2 Database -> Banco de dados em memoria utilizado apenas para testes
 
+### MODELO DE DOMINIO
+
+![dslist-model](https://github.com/dsaoDev/dslist-springboot/assets/129787872/4ca3f140-28e4-4dbf-a7a9-066cb2a5e574)
+
 ## Programas Utilizados:
 
 Postman -> Utilizado para fazer as requisições (CONSUMIR) a aplicação.
