@@ -10,7 +10,7 @@ Aplicação sobre Jogos e sua respectivas Listas,  feita na semana Intensivão S
 - Retorna uma Lista com todos os Jogos cadastrados
 - Encontra qual Lista o jogo pertence pelo Id da Lista
 - Retorna uma lista com todas as listas de jogos cadastrados
-- Move a posição do jogo de acordo com o id da lista a origem a origem do Indice e destino
+- Move a posição do jogo de acordo com o id da lista a origem do Indice e destino
 
 ## VERSIONAMENTO:
 
